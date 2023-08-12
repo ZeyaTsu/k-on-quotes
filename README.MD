@@ -6,7 +6,7 @@ Get quotes from the K-ON anime in the most easiest way possible<br/>
 * Content
 * Usage
 * Splitting the quote from the author
-* Fixing UnicodeError whe using local file
+* Fixing UnicodeError when using local file
 
 # Content
 Currently the file contains 213 quotes, however, more quotes are going to come in the future. <br/>
