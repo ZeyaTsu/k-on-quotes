@@ -33,11 +33,11 @@ file_url = "https://zeyatsu.github.io/k-on-quotes/quotes.txt" # No need to downl
 response = requests.get(file_url)
 
 if response.status_code == 200:
-  lines = response.text.splitlines()
-  random_line = random.choice(lines)
-  print(random_line)
+    lines = response.text.splitlines()
+    random_line = random.choice(lines)
+    print(random_line)
 else:
-  print("Error: ", response.status_code)
+    print("Error: ", response.status_code)
 ```
 ## 2 - With API (.json file (online))
 ```py
