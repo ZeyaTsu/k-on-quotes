@@ -58,3 +58,14 @@ If you download the quotes.txt file instead of using the url, it is possible to 
 ```py
 with open('quotes.txt', 'r', encoding='utf-8') as f:
 ```
+
+# Credits
+<table>
+  <tr>
+    <td style="align:center;">
+      <img src="https://avatars.githubusercontent.com/u/43354103?v=4" alt="Author: ZeyaTsu" width="100" height="100"/>
+      <br/>
+      <h2>ZeyaTsu</h2>
+    </td>
+  </tr>
+</table>
