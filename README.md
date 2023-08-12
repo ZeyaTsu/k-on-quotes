@@ -12,7 +12,8 @@ Currently the file contains 137 quotes, however, more quotes are going to come i
 You can ask to add quotes in the file by opening either an issue or a pull request
 
 # Usage
-As you can see, this is a .txt file and not a .json file. Here's how to get a random quote from it. <br/>
+## 1 - With .txt file (online)
+Example to print a random quote from the online file
 ```py
 import requests, random
 
@@ -25,6 +26,24 @@ if response.status_code == 200:
   print(random_line)
 else:
   print("Error: ", response.status_code)
+```
+## 2 - With .json file (online)
+```py
+import random
+import requests
+
+json_url = ''
+
+# Fetch JSON data from the URL
+response = requests.get(json_url)
+quotes_data = response.json()
+
+# Choose a random quote from the fetched JSON data
+random_quote = random.choice(quotes_data)
+
+# Print the random quote and its author
+print("Quote:", random_quote["quote"])
+print("Author:", random_quote["author"])
 ```
 # Splitting the quote from the author
 ```py
