@@ -18,7 +18,7 @@ Example to print a random quote from the online file
 ```py
 import requests, random
 
-file_url = "https://raw.githubusercontent.com/ZeyaTsu/k-on-quotes/main/quotes.txt" # No need to download the txt file.
+file_url = "https://zeyatsu.github.io/k-on-quotes/quotes.json" # No need to download the txt file.
 response = requests.get(file_url)
 
 if response.status_code == 200:
@@ -33,7 +33,7 @@ else:
 import random
 import requests
 
-json_url = "https://raw.githubusercontent.com/ZeyaTsu/k-on-quotes/main/quotes.json"
+json_url = "https://zeyatsu.github.io/k-on-quotes/quotes.json" # No need to download the json file.
 
 response = requests.get(json_url)
 
@@ -44,6 +44,8 @@ if response.status_code == 200:
 
     print(f"{random_quote} by {random_author}")
 ```
+
+For characters replace "k-on-quotes/quotes.json" by "k-on-quotes/characters/the_character_you_want.json"
 
 # Splitting the quote from the author
 ```py
