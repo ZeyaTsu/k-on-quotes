@@ -1,7 +1,7 @@
 # K-ON Quotes
 Get quotes from the K-ON anime in the most easiest way possible
 
-* Content <a href="test">test</a>
+* Content <a href="#test">test</a>
 * Usage
 * Splitting the quote from the author
 * Fixing UnicodeError whe using local file
