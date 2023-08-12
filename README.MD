@@ -22,7 +22,7 @@ quote = GETquote(character_you_want) # mio, yui, azusa, tsumugi, ritsu, sawako, 
 quote_author = quote.GETauthor()
 print(f"{quote} - {quote_author}")
 
-# If you are getting errors while referencing to GETquote or whatever, try to str()
+# If you are getting errors while printing or using GETquote or whatever, try to str()
 ```
 
 ## 1 - With .txt file (online)
