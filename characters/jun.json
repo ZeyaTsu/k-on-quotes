@@ -1,6 +1,7 @@
-[
-    {
-        "quote": "Man. I'm so jealous",
-        "author": "Jun Suzuki"
+{
+    "authors": {
+        "Jun Suzuki": [
+            "Man. I'm so jealous"
+        ]
     }
-]
+}

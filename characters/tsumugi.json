@@ -1,82 +1,26 @@
-[
-    {
-        "quote": "Yes, but I'd rather be friends with fun people that I don't meet often",
-        "author": "Tsumugi Kotobuki"
-    },
-    {
-        "quote": "I've always wanted someone to ask me if I would like fries with that",
-        "author": "Tsumugi Kotobuki"
-    },
-    {
-        "quote": "She always gives you her all, no matter what",
-        "author": "Tsumugi Kotobuki"
-    },
-    {
-        "quote": "Jello is nice…",
-        "author": "Tsumugi Kotobuki"
-    },
-    {
-        "quote": "If you were a boy, I am sure you would be very popular with the girls!",
-        "author": "Tsumugi Kotobuki"
-    },
-    {
-        "quote": "You and Mio-chan…you’re hitting each other and bonding through bodily contact, right?",
-        "author": "Tsumugi Kotobuki"
-    },
-    {
-        "quote": "Really?!",
-        "author": "Tsumugi Kotobuki"
-    },
-    {
-        "quote": "I know",
-        "author": "Tsumugi Kotobuki"
-    },
-    {
-        "quote": "Do you want to go to class like this?",
-        "author": "Tsumugi Kotobuki"
-    },
-    {
-        "quote": "We have cookie--",
-        "author": "Tsumugi Kotobuki"
-    },
-    {
-        "quote": "Yui-chan's used up all of her energy, so she's sitting like a blob over here",
-        "author": "Tsumugi Kotobuki"
-    },
-    {
-        "quote": "No one's coming...",
-        "author": "Tsumugi Kotobuki"
-    },
-    {
-        "quote": "Let me see ",
-        "author": "Tsumugi Kotobuki"
-    },
-    {
-        "quote": "Where are your hair pins?!",
-        "author": "Tsumugi Kotobuki"
-    },
-    {
-        "quote": "Here you go",
-        "author": "Tsumugi Kotobuki"
-    },
-    {
-        "quote": "Nope",
-        "author": "Tsumugi Kotobuki"
-    },
-    {
-        "quote": "But I'm sure it'll work out",
-        "author": "Tsumugi Kotobuki"
-    },
-    {
-        "quote": "Would you like some tea?",
-        "author": "Tsumugi Kotobuki"
-    },
-    {
-        "quote": "She changed the subject",
-        "author": "Tsumugi Kotobuki"
-    },
-    {
-        "quote": "And vanilla for me",
-        "author": "Tsumugi Kotobuki"
+{
+    "authors": {
+        "Tsumugi Kotobuki": [
+            "Yes, but I'd rather be friends with fun people that I don't meet often",
+            "I've always wanted someone to ask me if I would like fries with that",
+            "She always gives you her all, no matter what",
+            "Jello is nice…",
+            "If you were a boy, I am sure you would be very popular with the girls!",
+            "You and Mio-chan…you’re hitting each other and bonding through bodily contact, right?",
+            "Really?!",
+            "I know",
+            "Do you want to go to class like this?",
+            "We have cookie--",
+            "Yui-chan's used up all of her energy, so she's sitting like a blob over here",
+            "No one's coming...",
+            "Let me see ",
+            "Where are your hair pins?!",
+            "Here you go",
+            "Nope",
+            "But I'm sure it'll work out",
+            "Would you like some tea?",
+            "She changed the subject",
+            "And vanilla for me"
+        ]  
     }
-]   
+}

@@ -1,82 +1,26 @@
-[
-    {
-        "quote": "He's so cute, I want to put peanuts in his nose",
-        "author": "Yui Hirasawa"
-    },
-    {
-        "quote": "Fun things are fun",
-        "author": "Yui Hirasawa"
-    },
-    {
-        "quote": "To the me back then, you don't nneed to worry. You'll soon find something you can do, something you can set your heart on",
-        "author": "Yui Hirasawa"
-    },
-    {
-        "quote": "When it comes time for next year’s school festival, I know we’re going to play even better!",
-        "author": "Yui Hirasawa"
-    },
-    {
-        "quote": "I have one last request. Please slap me in the face with that wad of cash",
-        "author": "Yui Hirasawa"
-    },
-    {
-        "quote": "I want to be able to snap my fingers!",
-        "author": "Yui Hirasawa"
-    },
-    {
-        "quote": "The Cake is a Lie!",
-        "author": "Yui Hirasawa"
-    },
-    {
-        "quote": "Make sure you don’t mistake soy sauce for sugar",
-        "author": "Yui Hirasawa"
-    },
-    {
-        "quote": "In the manga, when I wasn’t in the picture, even if I didn’t sing nobody noticed, but if I don’t sing in the anime…",
-        "author": "Yui Hirasawa"
-    },
-    {
-        "quote": "I know you’re really a pure hearted person, Nadoka-chan, please snap out of it!",
-        "author": "Yui Hirasawa"
-    },
-    {
-        "quote": "Let’s eat first then plan our schedule for next year!",
-        "author": "Yui Hirasawa"
-    },
-    {
-        "quote": "Oh if you’re looking for Mio, she’s still huddled in terror over there",
-        "author": "Yui Hirasawa"
-    },
-    {
-        "quote": "I’m scared of hot and cold. In winter, I hide under the heating table and in summer, I lie in bed and do nothing",
-        "author": "Yui Hirasawa"
-    },
-    {
-        "quote": "When we started the light music club we said that our slogan was going to be “Budokan or bust!” We worked after school jobs together so I could buy Geeta. We had tea in the club room together and talked about everything. We had training camps at Mugi-chan’s summer homes and looked for a new student who would join the club. I can’t really say we devoted our selves wholeheartedly to practicing, but right now, for us standing here on this stage this auditorium is our Budokan, and we’ll sing our hearts out to the very end!",
-        "author": "Yui Hirasawa"
-    },
-    {
-        "quote": "Fuwa fuwa time",
-        "author": "Yui Hirasawa"
-    },
-    {
-        "quote": "If you have the courage to begin, you have the courage to succeed",
-        "author": "Yui Hirasawa"
-    },
-    {
-        "quote": "I'm tree G! Pose of a tree!",
-        "author": "Yui Hirasawa"
-    },
-    {
-        "quote": "Squishy~!",
-        "author": "Yui Hirasawa"
-    },
-    {
-        "quote": "High schoolers are kind of amazing!",
-        "author": "Yui Hirasawa"
-    },
-    {
-        "quote": "Azunyan~",
-        "author": "Yui Hirasawa"
+{
+    "authors": {
+        "Yui Hirasawa": [
+            "He's so cute, I want to put peanuts in his nose",
+            "Fun things are fun",
+            "To the me back then, you don't nneed to worry. You'll soon find something you can do, something you can set your heart on",
+            "When it comes time for next year’s school festival, I know we’re going to play even better!",
+            "I have one last request. Please slap me in the face with that wad of cash",
+            "I want to be able to snap my fingers!",
+            "The Cake is a Lie!",
+            "Make sure you don’t mistake soy sauce for sugar",
+            "In the manga, when I wasn’t in the picture, even if I didn’t sing nobody noticed, but if I don’t sing in the anime…",
+            "I know you’re really a pure hearted person, Nadoka-chan, please snap out of it!",
+            "Let’s eat first then plan our schedule for next year!",
+            "Oh if you’re looking for Mio, she’s still huddled in terror over there",
+            "I’m scared of hot and cold. In winter, I hide under the heating table and in summer, I lie in bed and do nothing",
+            "When we started the light music club we said that our slogan was going to be “Budokan or bust!” We worked after school jobs together so I could buy Geeta. We had tea in the club room together and talked about everything. We had training camps at Mugi-chan’s summer homes and looked for a new student who would join the club. I can’t really say we devoted our selves wholeheartedly to practicing, but right now, for us standing here on this stage this auditorium is our Budokan, and we’ll sing our hearts out to the very end!",
+            "Fuwa fuwa time",
+            "If you have the courage to begin, you have the courage to succeed",
+            "I'm tree G! Pose of a tree!",
+            "Squishy~!",
+            "High schoolers are kind of amazing!",
+            "Azunyan~"
+        ]  
     }
-]
+}

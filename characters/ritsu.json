@@ -1,82 +1,26 @@
-[
-    {
-        "quote": "Thou art not good! Thou shalt not become a great actress at this rate",
-        "author": "Ritsu Tainaka"
-    },
-    {
-        "quote": "Looks good",
-        "author": "Ritsu Tainaka"
-    },
-    {
-        "quote": "Let's bet our future on this concert!",
-        "author": "Ritsu Tainaka"
-    },
-    {
-        "quote": "Why you're so happy?",
-        "author": "Ritsu Tainaka"
-    },
-    {
-        "quote": "Goodness!",
-        "author": "Ritsu Tainaka"
-    },
-    {
-        "quote": "Whatcha doing?",
-        "author": "Ritsu Tainaka"
-    },
-    {
-        "quote": "Did you do something to pull off this class assignment?",
-        "author": "Ritsu Tainaka"
-    },
-    {
-        "quote": "Denied",
-        "author": "Ritsu Tainaka"
-    },
-    {
-        "quote": "Your posture completely doesn't match what you're saying",
-        "author": "Ritsu Tainaka"
-    },
-    {
-        "quote": "At least try to act tough",
-        "author": "Ritsu Tainaka"
-    },
-    {
-        "quote": "They're giving her directions there",
-        "author": "Ritsu Tainaka"
-    },
-    {
-        "quote": "Aren't you glad, Mio?",
-        "author": "Ritsu Tainaka"
-    },
-    {
-        "quote": "So how was it?",
-        "author": "Ritsu Tainaka"
-    },
-    {
-        "quote": "Hello?",
-        "author": "Ritsu Tainaka"
-    },
-    {
-        "quote": "I'm sorry, but can you me to the music room?",
-        "author": "Ritsu Tainaka"
-    },
-    {
-        "quote": "Use a bug catcher net, and like this, and this!",
-        "author": "Ritsu Tainaka"
-    },
-    {
-        "quote": "She imagined it",
-        "author": "Ritsu Tainaka"
-    },
-    {
-        "quote": "Man, I don't wanna go to the ceremony",
-        "author": "Ritsu Tainaka"
-    },
-    {
-        "quote": "Should we try the fliers again?",
-        "author": "Ritsu Tainaka"
-    },
-    {
-        "quote": "What could have changed so quickly?",
-        "author": "Ritsu Tainaka"
+{
+    "authors": {
+        "Ritsu Tainaka": [
+            "Thou art not good! Thou shalt not become a great actress at this rate",
+            "Looks good",
+            "Let's bet our future on this concert!",
+            "Why you're so happy?",
+            "Goodness!",
+            "Whatcha doing?",
+            "Did you do something to pull off this class assignment?",
+            "Denied",
+            "Your posture completely doesn't match what you're saying",
+            "At least try to act tough",
+            "They're giving her directions there",
+            "Aren't you glad, Mio?",
+            "So how was it?",
+            "Hello?",
+            "I'm sorry, but can you me to the music room?",
+            "Use a bug catcher net, and like this, and this!",
+            "She imagined it",
+            "Man, I don't wanna go to the ceremony",
+            "Should we try the fliers again?",
+            "What could have changed so quickly?"
+        ]
     }
-]
+}
