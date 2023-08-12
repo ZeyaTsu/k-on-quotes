@@ -1,7 +1,8 @@
 # K-ON Quotes
 Get quotes from the K-ON anime in the most easiest way possible
 
-* Content <a href="#test">test</a>
+# Summary
+* Content
 * Usage
 * Splitting the quote from the author
 * Fixing UnicodeError whe using local file
@@ -36,4 +37,3 @@ If you download the quotes.txt file instead of using the url, it is possible to 
 ```py
 with open('quotes.txt', 'r', encoding='utf-8') as f:
 ```
-<div id="test"></div>
