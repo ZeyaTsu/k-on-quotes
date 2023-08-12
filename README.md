@@ -1,7 +1,7 @@
 # K-ON Quotes
 Get quotes from the K-ON anime in the most easiest way possible
 
-# Summary
+# Table of contents
 * Content
 * Usage
 * Splitting the quote from the author
