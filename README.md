@@ -32,7 +32,7 @@ else:
 import random
 import requests
 
-json_url = ''
+json_url = "https://raw.githubusercontent.com/ZeyaTsu/k-on-quotes/main/quotes.json"
 
 # Fetch JSON data from the URL
 response = requests.get(json_url)
@@ -45,12 +45,13 @@ random_quote = random.choice(quotes_data)
 print("Quote:", random_quote["quote"])
 print("Author:", random_quote["author"])
 ```
+
 # Splitting the quote from the author
 ```py
-# Taking our previous code
-quote, author = random_line.strip().split(" / ")
+quote, author = random_quote.strip().split(" / ")
 print(f"Quote: {quote} by {author}")
 ```
+
 # Fixing UnicodeError when using local file
 If you download the quotes.txt file instead of using the url, it is possible to get a UnicodeError. In this case, you will have to add a encoding parameter </br>
 ```py
