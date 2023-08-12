@@ -21,6 +21,8 @@ from kon_quotes import GETquote
 quote = GETquote(character_you_want) # mio, yui, azusa, tsumugi, ritsu, sawako, jun, general, all
 quote_author = quote.GETauthor()
 print(f"{quote} - {quote_author}")
+
+# If you are getting errors while referencing to GETquote or whatever, try to str()
 ```
 
 ## 1 - With .txt file (online)
