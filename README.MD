@@ -29,7 +29,7 @@ print(f"{quote} - {quote_author}")
 ```py
 import requests, random
 
-file_url = "https://zeyatsu.github.io/k-on-quotes/quotes.json" # No need to download the txt file.
+file_url = "https://zeyatsu.github.io/k-on-quotes/quotes.txt" # No need to download the txt file.
 response = requests.get(file_url)
 
 if response.status_code == 200:
@@ -56,7 +56,7 @@ if response.status_code == 200:
     print(f"{random_quote} by {random_author}")
 ```
 
-For characters replace "k-on-quotes/quotes.json" by "k-on-quotes/characters/the_character_you_want.json"
+For characters replace "k-on-quotes/quotes.json/.txt" by "k-on-quotes/characters/the_character_you_want.json/.txt"
 
 # Splitting the quote from the author
 ```py
