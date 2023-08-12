@@ -35,14 +35,11 @@ import requests
 
 json_url = "https://raw.githubusercontent.com/ZeyaTsu/k-on-quotes/main/quotes.json"
 
-# Fetch JSON data from the URL
 response = requests.get(json_url)
 quotes_data = response.json()
 
-# Choose a random quote from the fetched JSON data
 random_quote = random.choice(quotes_data)
 
-# Print the random quote and its author
 print("Quote:", random_quote["quote"])
 print("Author:", random_quote["author"])
 ```
