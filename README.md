@@ -66,7 +66,7 @@ with open('quotes.txt', 'r', encoding='utf-8') as f:
       <a href="https://github.com/ZeyaTsu"> 
         <img src="https://avatars.githubusercontent.com/u/43354103?v=4" alt="Author: ZeyaTsu" width="100" height="100"/>
         <br/>
-        <h2>ZeyaTsu</h2>
+        <span>ZeyaTsu</span>
       </a>
     </td>
   </tr>
