@@ -1,5 +1,6 @@
 # K-ON Quotes
-Get quotes from the K-ON anime in the most easiest way possible
+Get quotes from the K-ON anime in the most easiest way possible<br/>
+<img src="https://i.imgur.com/0qVCV8Z.jpeg" alt="Mio Akiyama" width="46%"/>
 
 # Table of contents
 * Content
