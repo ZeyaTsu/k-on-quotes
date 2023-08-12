@@ -9,7 +9,7 @@ Get quotes from the K-ON anime in the most easiest way possible<br/>
 * Fixing UnicodeError whe using local file
 
 # Content
-Currently the file contains 137 quotes, however, more quotes are going to come in the future. <br/>
+Currently the file contains 213 quotes, however, more quotes are going to come in the future. <br/>
 You can ask to add quotes in the file by opening either an issue or a pull request
 
 # Usage
