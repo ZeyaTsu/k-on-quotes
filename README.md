@@ -36,12 +36,13 @@ import requests
 json_url = "https://raw.githubusercontent.com/ZeyaTsu/k-on-quotes/main/quotes.json"
 
 response = requests.get(json_url)
-quotes_data = response.json()
 
-random_quote = random.choice(quotes_data)
+if response.status_code == 200:
+    data = response.json()
+    random_author = random.choice(list(data["authors"].keys()))
+    random_quote = random.choice(data["authors"][random_author])
 
-print("Quote:", random_quote["quote"])
-print("Author:", random_quote["author"])
+    print(f"{random_quote} by {random_author}")
 ```
 
 # Splitting the quote from the author
